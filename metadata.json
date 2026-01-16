@@ -1,0 +1,7 @@
+{
+  "name": "Copy of placa finalizado 2",
+  "description": "Um placar esportivo moderno com cronômetro e comentários gerados por IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
